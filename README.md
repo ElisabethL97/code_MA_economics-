@@ -8,9 +8,9 @@ The aim is to compare three classification models, namely random forest, XGBoost
 
 # Setup 
 The Repo consits of the following folders:
-/exploratroive_data_analysis: displays the code for the exploratorive data analysis prior to the preprocessing
-/preprocessing: displays the code for the preprocessing steps of the data
-/models: displays the code for training and evaluating the four algorithms 
+/exploratroive_data_analysis: displays the code for the exploratorive data analysis prior to the preprocessing //
+/preprocessing: displays the code for the preprocessing steps of the data //
+/models: displays the code for training and evaluating the four algorithms //
 
 With this code base it should be possible to reconstruct the results of the thesis. 
 
