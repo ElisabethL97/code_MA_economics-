@@ -3,3 +3,5 @@
 */.venv/*
 */saved_models/*
 */data/*
+*y_preprocessing.csv
+*X_preprocessing.csv
