@@ -1,3 +1,5 @@
+# The following files/folders are not tracked by git 
+
 *.venv
 */saved_models/*
 */data/*
