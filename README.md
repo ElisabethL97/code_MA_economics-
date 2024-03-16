@@ -14,11 +14,11 @@ The Repo consits of the following folders:
 
 /models: displays the code for training and evaluating the four algorithms 
 
-With this code base it should be possible to reconstruct the results of the thesis. 
+The data can be found here: https://www.kaggle.com/datasets/mrferozi/loan-data-for-dummy-bank?resource=download
+With the data and this code base it should be possible to reconstruct the results of the thesis. 
 
 # Dependencies
 The requirements.txt file displays all packages necessary for the analysis. 
-
 
 If you have any questions, feel free to reach out to me:
 Elisabeth Langeder, e.langeder@yahoo.de 
