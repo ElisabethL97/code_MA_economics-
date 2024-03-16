@@ -1,7 +1,11 @@
 # The following folders are not tracked by git 
 
-*/.venv/*
-*/saved_models/*
-*/data/*
-*y_preprocessing.csv
-*X_preprocessing.csv
+venv
+saved_models/lr_best_model.pkl
+saved_models/nn_best_model.keras
+saved_models/rf_best_model.pkl
+saved_models/xgb_best_model_over.pkl
+saved_models/xgb_best_model_under.pkl
+data/loan_final313.csv
+preprocessing/y_preprocessing.csv
+preprocessing/X_preprocessing.csv
